@@ -1,6 +1,7 @@
-![SuperTextMeshXRusticPenguin]()
+![SuperTextMeshXRusticPenguin](https://user-images.githubusercontent.com/38636581/46386457-c64e4f80-c67e-11e8-84a9-632443136276.png)
 ___
 # Testing: SuperTextMesh
+
 This repo is going to contain different examples/code to use with [SuperTextMesh](https://assetstore.unity.com/packages/tools/gui/super-text-mesh-57995). No source code from [SuperTextMesh](https://assetstore.unity.com/packages/tools/gui/super-text-mesh-57995) will be included.
 ___
 ## What is SuperTextMesh?
@@ -29,4 +30,6 @@ ___
 * #### [My Youtube Channel](https://www.youtube.com/channel/UCXvjbLXk85PIhrkWgCdb9TA)
 * #### [My Twitter](https://twitter.com/imrusticpenguin)
 ___
+**DISCLAIMER**: I am not endorsed by, directly affiliated with, maintained, authorized, or sponsored by SuperTextMesh or it's creator(s).
+
 This repo is licensed under [The MIT License](https://opensource.org/licenses/MIT) © 2018 George Chios
