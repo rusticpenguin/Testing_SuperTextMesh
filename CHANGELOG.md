@@ -13,8 +13,4 @@ Initialized Project. Plan on working on this throughout the next few weeks.
 - Created a Changelog.
 - Unity3D Project
 
-### Changed
-- Jumping now works when idle or not.
-- NPC text consistently activates
-
 [0.0.1]:https://github.com/rusticpenguin/Testing_SuperTextMesh/tree/0.0.1
